@@ -22,6 +22,7 @@ a_turtle
  Sample Input:
 
 4
+
 север 10
 запад 20
 юг 30
